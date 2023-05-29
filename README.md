@@ -12,6 +12,8 @@ The [Jetpack Compose for Android Developer course](https://developer.android.com
   - [State in Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-state) - [solution](./BasicStateCodelab/)
 - [Layouts, theming, and animation](https://developer.android.com/courses/pathways/jetpack-compose-for-android-developers-2)
   - [Theming in Compose with Material 3](https://developer.android.com/codelabs/jetpack-compose-theming) - [solution](./ThemingCodelab/)
+- [Architecture and state](https://developer.android.com/courses/pathways/jetpack-compose-for-android-developers-3)
+  - [Jetpack Compose Navigation](https://developer.android.com/codelabs/jetpack-compose-navigation) - [solution](./NavigationCodelab/)
 
 ## Author
 
